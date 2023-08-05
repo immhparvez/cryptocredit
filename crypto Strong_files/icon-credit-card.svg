@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_14946" data-name="Rectangle 14946" width="48" height="48" transform="translate(37 1238)" fill="none" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_14931" data-name="Rectangle 14931" width="38.72" height="24.452" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="icon-credit_card" data-name="icon-credit card" transform="translate(-37 -1238)" clip-path="url(#clip-path)">
+    <g id="Group_6019" data-name="Group 6019" transform="translate(40 1253.266)">
+      <g id="Group_6018" data-name="Group 6018" transform="translate(0 0)" clip-path="url(#clip-path-2)">
+        <rect id="Rectangle_14929" data-name="Rectangle 14929" width="36.556" height="22.288" rx="4" transform="translate(1.082 1.082)" fill="#fff" stroke="#63707b" stroke-width="1"/>
+        <g id="Group_6020" data-name="Group 6020" transform="translate(3.961 17.029)">
+          <line id="Line_428" data-name="Line 428" x2="5.526" fill="none" stroke="#63707b" stroke-linecap="round" stroke-width="1"/>
+          <line id="Line_429" data-name="Line 429" x2="5.526" transform="translate(8.289)" fill="none" stroke="#63707b" stroke-linecap="round" stroke-width="1"/>
+          <line id="Line_430" data-name="Line 430" x2="5.526" transform="translate(16.576)" fill="none" stroke="#63707b" stroke-linecap="round" stroke-width="1"/>
+          <line id="Line_431" data-name="Line 431" x2="5.526" transform="translate(24.865)" fill="none" stroke="#63707b" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <line id="Line_432" data-name="Line 432" x2="9.792" transform="translate(24.559 6.9)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+        <rect id="Rectangle_14930" data-name="Rectangle 14930" width="6.68" height="5.77" rx="1" transform="translate(3.961 6.9)" fill="#6bbd44" stroke="#63707b" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Group_6021" data-name="Group 6021" transform="matrix(0.891, 0.454, -0.454, 0.891, 52.5, 1240)">
+      <g id="Group_6018-2" data-name="Group 6018" clip-path="url(#clip-path-2)">
+        <rect id="Rectangle_14929-2" data-name="Rectangle 14929" width="36.556" height="22.288" rx="4" transform="translate(1.082 1.082)" fill="#b5dea2" stroke="#63707b" stroke-width="1"/>
+        <g id="Group_6020-2" data-name="Group 6020" transform="translate(3.961 17.029)">
+          <line id="Line_428-2" data-name="Line 428" x2="5.526" transform="translate(0 0)" fill="none" stroke="#63707b" stroke-linecap="round" stroke-width="1"/>
+          <line id="Line_429-2" data-name="Line 429" x2="5.526" transform="translate(8.289 0)" fill="none" stroke="#63707b" stroke-linecap="round" stroke-width="1"/>
+          <line id="Line_430-2" data-name="Line 430" x2="5.526" transform="translate(16.576 0)" fill="none" stroke="#63707b" stroke-linecap="round" stroke-width="1"/>
+          <line id="Line_431-2" data-name="Line 431" x2="5.526" transform="translate(24.865 0)" fill="none" stroke="#63707b" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <line id="Line_432-2" data-name="Line 432" x2="9.792" transform="translate(24.559 6.9)" fill="none" stroke="#63707b" stroke-linecap="round" stroke-width="1"/>
+        <rect id="Rectangle_14930-2" data-name="Rectangle 14930" width="6.68" height="5.77" rx="1" transform="translate(3.961 6.9)" fill="#6bbd44" stroke="#63707b" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
